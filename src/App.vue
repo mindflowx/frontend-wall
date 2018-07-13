@@ -17,6 +17,10 @@ export default {
 </script>
 
 <style scoped>
+body {
+  background: red;
+}
+
 #app {
   font-family: 'Verdana', Helvetica, Arial, sans-serif;
   -webkit-font-smoothing: antialiased;
